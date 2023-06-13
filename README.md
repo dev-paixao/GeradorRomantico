@@ -12,7 +12,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :rocket: Acesse o Projeto
 
-Para utilizar o Gerador de Citações Românticas, você pode acessar o seguinte link: [Gerador de Citações Românticas]([https://seu-usuario.github.io/nome-do-repositorio/](https://dev-paixao.github.io/GeradorRomantico/)
+Para utilizar o Gerador de Citações Românticas, você pode acessar o seguinte link: [Gerador de Citações Românticas](https://dev-paixao.github.io/GeradorRomantico/)
 
 ## :clipboard: Sobre o Projeto
 
